@@ -1,0 +1,10 @@
+{
+  "name": "Investment Forecast",
+  "short_name": "Forecast",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0f172a",
+  "description": "Инвестиционна прогноза по данни от Excel файл",
+  "icons": []
+}
